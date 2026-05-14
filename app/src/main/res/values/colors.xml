@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="hc_primary">#4A148C</color>
+    <color name="hc_primary_dark">#12005E</color>
+    <color name="hc_accent">#00BCD4</color>
+    <color name="hc_background">#F5F5F5</color>
+    <color name="hc_text_dark">#212121</color>
+    <color name="hc_text_light">#FFFFFF</color>
+    <color name="hc_success">#2E7D32</color>
+    <color name="hc_error">#B71C1C</color>
+</resources>
