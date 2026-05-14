@@ -38,7 +38,7 @@ com.example.securestoragelabjava
 ## Démonstration
 
 ### Vidéo
-https://github.com/hiba05555/lab15_SecureStorage/blob/main/demo_lab15.mp4
+https://github.com/hiba05555/lab15_SecureStorage/demo_lab15.mp4
 
 ---
 
