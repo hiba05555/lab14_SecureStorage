@@ -8,16 +8,18 @@ Application Android de persistance locale sécurisée utilisant SharedPreference
 
 ## Ce qui a été réalisé
 
-### Structure du projet
-com.example.securestoragelabjava
-├── model/Student.java
-├── prefs/AppPrefs.java
-├── prefs/SecurePrefs.java
-├── files/InternalTextStore.java
-├── files/StudentsJsonStore.java
-├── cache/CacheStore.java
-├── external/ExternalAppFilesStore.java
-└── ui/MainActivity.java
+## Structure du projet
+
+| Package | Fichier |
+|---------|---------|
+| model | Student.java |
+| prefs | AppPrefs.java |
+| prefs | SecurePrefs.java |
+| files | InternalTextStore.java |
+| files | StudentsJsonStore.java |
+| cache | CacheStore.java |
+| external | ExternalAppFilesStore.java |
+| ui | MainActivity.java |
 
 ### Fonctionnalités
 | Fonctionnalité | Description |
@@ -38,7 +40,7 @@ com.example.securestoragelabjava
 ## Démonstration
 
 ### Vidéo
-https://github.com/hiba05555/lab15_SecureStorage/demo_lab15.zip
+demo_lab15.zip
 
 ---
 
