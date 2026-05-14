@@ -40,8 +40,7 @@ Application Android de persistance locale sécurisée utilisant SharedPreference
 ## Démonstration
 
 ### Vidéo
-demo_lab15.zip
-
+📦 Fichier demo disponible : [demo_lab15.zip](demo_lab15.zip)
 ---
 
 ## Technologies utilisées
